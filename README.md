@@ -1,4 +1,4 @@
-# The Art of Prompt Engineering
+# Python for Data Science
 ## Author: MrSimple, Sheila Laksmi, Rendy Christian, Haykal Azrel Putra
 
 Mentee assignment from IBM Advance AI @ Infinite Learning
